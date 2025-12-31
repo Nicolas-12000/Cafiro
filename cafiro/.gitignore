@@ -35,3 +35,14 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Misc ###
+*.log
+.env*
+!.env.example
+local.properties
+logs/
+*.jar
+*.war
+*.keystore
+.DS_Store
