@@ -20,7 +20,7 @@ Plataforma e-commerce, diseñada para conectar productores de café especial col
 
 ## Instalación (rápida)
 
-Clona el repositorio (reemplaza <repo-url> por la URL real del repositorio):
+Clona el repositorio (reemplaza <repo-url> por la URL del repositorio):
 
 ```bash
 git clone <repo-url>
@@ -47,7 +47,7 @@ Configura variables de entorno en `application.properties` o via env vars (DB UR
 Frontend (Next.js — ejemplo):
 
 ```bash
-cd frontend
+cd cafiro-front
 npm install
 npm run dev
 # Abre http://localhost:3000
